@@ -49,6 +49,8 @@ I'm a **B.Tech Computer Science Engineering** student at IPS IES, passionate abo
 - 🔗 [Project 3](#) – Something innovative you built.
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=akshad-exe&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
 
 ## 📬 Connect with Me
 
