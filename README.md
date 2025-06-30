@@ -1,5 +1,9 @@
 ### Hi there, I'm Akshad Jogi! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=akshad-exe&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/akshad-exe?label=Followers&style=flat&color=0e75b6)
+![GitHub Stars](https://img.shields.io/github/stars/akshad-exe?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
+
 🚀 **Aspiring 7-Figure Developer | Cybersecurity Enthusiast | Tech Explorer**
 
 I'm a **B.Tech Computer Science Engineering** student at IPS IES, passionate about programming, cybersecurity, and building scalable tech solutions. I love exploring new technologies and creating impactful projects. 
