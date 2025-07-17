@@ -58,7 +58,7 @@ I'm a **B.Tech Computer Science Engineering** student at IPS IES, passionate abo
 
 ## 📬 Connect with Me
 
-- 🏠 GitHub: [github.com/akshadjogi](https://github.com/akshadjogi)
+- 🏠 GitHub: [github.com/akshad-exe](https://github.com/akshad-exe)
 - 🔗 LinkedIn: [linkedin.com/in/akshadjogi](https://linkedin.com/in/akshadjogi)
 - 🐦 Twitter: [twitter.com/akshadjogi](https://twitter.com/akshadjogi)
 - ✉️ Email: [akshadjogi@example.com](mailto:akshadjogi@example.com)
