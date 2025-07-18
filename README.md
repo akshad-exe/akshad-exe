@@ -3,6 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=akshad-exe&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/akshad-exe?label=Followers&style=flat&color=0e75b6)
 ![GitHub Stars](https://img.shields.io/github/stars/akshad-exe?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
+[![wakatime](https://wakatime.com/badge/user/e1d0d8cb-15a9-4001-9aa0-1114dc31bb81.svg)](https://wakatime.com/@e1d0d8cb-15a9-4001-9aa0-1114dc31bb81)
 
 🚀 **Aspiring 7-Figure Developer | Cybersecurity Enthusiast | Tech Explorer**
 
@@ -53,6 +54,7 @@ I'm a **B.Tech Computer Science Engineering** student at IPS IES, passionate abo
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshad-exe&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshad-exe&layout=compact&theme=radical&hide_border=true)
+
 
 
 
