@@ -5,9 +5,9 @@
 ![GitHub Stars](https://img.shields.io/github/stars/akshad-exe?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
 [![wakatime](https://wakatime.com/badge/user/e1d0d8cb-15a9-4001-9aa0-1114dc31bb81.svg)](https://wakatime.com/@e1d0d8cb-15a9-4001-9aa0-1114dc31bb81)
 
-🚀 **Aspiring 7-Figure Developer | Cybersecurity Enthusiast | Tech Explorer**
+🚀 Cybersecurity Enthusiast | Tech Explorer | Developer
 
-I'm a **B.Tech Computer Science Engineering** student at IPS IES, passionate about programming, cybersecurity, and building scalable tech solutions. I love exploring new technologies and creating impactful projects. 
+I’m an engineering student who believes in project-based learning. Passionate about exploring new tools and technologies — especially in AI, Web3, Cybersecurity, and Blockchain. Constantly learning and building, one project at a time.
 
 ---
 
