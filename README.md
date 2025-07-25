@@ -38,7 +38,7 @@ I’m an engineering student who believes in project-based learning. Passionate 
 
 ### **🛠 Other Skills**
 - 🛡️ Cybersecurity & Ethical Hacking Enthusiast
-- 🎤 Organizing Tech Workshops & Events
+- 🎤 Contribute to projects i love
 - 🧩 Problem Solving & Data Structures (C++, Python)
 
 ---
