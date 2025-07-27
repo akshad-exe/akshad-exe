@@ -47,7 +47,6 @@ I’m an engineering student who believes in project-based learning. Passionate 
 
 - 🔗 [Project 1](#) – A brief description of your project.
 - 🔗 [Project 2](#) – Another amazing project.
-- 🔗 [Project 3](#) – Something innovative you built.
 
 ---
 ### 📊 GitHub Stats
