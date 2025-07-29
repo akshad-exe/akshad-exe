@@ -43,7 +43,6 @@ I’m an engineering student who believes in project-based learning. Passionate 
 
 ---
 
-## 📌 Featured Projects
 
 ---
 ### 📊 GitHub Stats
