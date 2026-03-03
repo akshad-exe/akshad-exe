@@ -1,16 +1,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=akshad-exe&label=Profile%20views&color=0e75b6&style=flat)
 [![wakatime](https://wakatime.com/badge/user/e1d0d8cb-15a9-4001-9aa0-1114dc31bb81.svg)](https://wakatime.com/@e1d0d8cb-15a9-4001-9aa0-1114dc31bb81)
-
 # Akshad Jogi
 Software Engineer | Polytool Architect  
 
-Software engineer building scalable systems across AI, blockchain, and distributed infrastructure. <br>
-An inquisitive engineer driven by hands-on experimentation and continuous learning.
+Building scalable systems across AI, blockchain, and distributed infrastructure. <br>
+Inquisitive by nature, driven by hands-on experimentation and continuous refinement.
 
 ## Currently
 
 - Working on [Pulm](https://github.com/Luxion-Labs/PulmNotes)  
-- Building Prism  
+- Developing Prism  
 - Focused on AI | Blockchain | Systems  
 - Exploring distributed and agent-driven architectures  
 
@@ -18,7 +17,7 @@ An inquisitive engineer driven by hands-on experimentation and continuous learni
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=akshad-exe&theme=tokyonight&hide_border=true&ring=FF4500&fire=FF4500&currStreakLabel=FF4500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=akshad-exe&theme=radical&hide_border=true&ring=FF4500&fire=FF4500&currStreakLabel=FF4500)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshad-exe&theme=radical)
 
 ---
