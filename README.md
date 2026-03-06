@@ -12,6 +12,9 @@ Inquisitive by nature, driven by hands-on experimentation and continuous refinem
 - Developing Prism  
 - Focused on AI | Blockchain | Systems  
 - Exploring distributed and agent-driven architectures  
+- @MLh fellow | fall 25"
+- 5x Hackathon Winner 
+
 
 ---
 
